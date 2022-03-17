@@ -2,8 +2,8 @@
 [![Twitter: Vaishnavi Deshmukh](https://img.shields.io/twitter/follow/vaishu_2_chimu?style=social)](https://twitter.com/vaishu_2_chimu)
 [![Linkedin: Vaishnavi Deshmukh](https://img.shields.io/badge/-vaishu2chimu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaishu2chimu/)](https://www.linkedin.com/in/vaishu2chimu/)
 [![GitHub Vaishnavi Deshmukh](https://img.shields.io/github/followers/Unstopable18?label=follow&style=social)](https://github.com/Unstopable18)
-[![YouTube Ada Code](https://img.shields.io/youtube/channel/views/UCvjLZblE0o03-OKtoNn1LWQ?label=Ada%20Code&style=social)](https://github.com/Unstopable18)
-[![Lang](https://img.shields.io/badge/Languages-English%20%26%20Hindi%20%26%20Marathi-brightgreen)](https://www.youtube.com/channel/UCvjLZblE0o03-OKtoNn1LWQ)
+[![YouTube Ada Code](https://img.shields.io/youtube/channel/views/UCvjLZblE0o03-OKtoNn1LWQ?label=Ada%20Code&style=social)](https://www.youtube.com/channel/UCvjLZblE0o03-OKtoNn1LWQ)
+[![Lang](https://img.shields.io/badge/Languages-English%20%26%20Hindi%20%26%20Marathi-brightgreen)]
 
 
 <!-- Header -->
