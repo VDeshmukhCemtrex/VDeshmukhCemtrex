@@ -44,6 +44,6 @@
 
 <br/>
 
-  <div align="left"><p ><b><i>*** GET SET CODE ***</i></b></p></div>
+  <div align="left"><p ><b><i>***GET SET CODE***</i></b></p></div>
   <div align="right"><p ><i><a href="https://github.com/Unstopable18/"><sub>Created by @Unstopable18</sub></a></i></p></div>
 
