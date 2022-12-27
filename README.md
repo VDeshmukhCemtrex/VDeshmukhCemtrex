@@ -13,7 +13,7 @@
 
 ### About Me
 - 🔭 I have done Master's in Computer Application from Sant Gadge Baba Amravati University Deparment
-- 🌱 I am currently working as a Software Developer Trainee at CemtrexLabs
+- 🌱 I am currently working as a Software Developer Trainee at CXR
 - 👯 I have a Youtube Channel were I try to give solutions to the queries raised in the routine codes of the sprouting developers.
 - 📫 Let me know if you need any help: vrd181999@gmail.com
 
